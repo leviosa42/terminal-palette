@@ -1,0 +1,19 @@
+#!/bin/bash
+echo -ne '\e]10;#ffffff\e\\' # foreground
+echo -ne '\e]11;#300a24\e\\' # background
+echo -ne '\e]4;00;#171421\e\\' # 0:black
+echo -ne '\e]4;01;#c21a23\e\\' # 1:red
+echo -ne '\e]4;02;#26a269\e\\' # 2:green
+echo -ne '\e]4;03;#a2734c\e\\' # 3:yellow
+echo -ne '\e]4;04;#0037da\e\\' # 4:blue
+echo -ne '\e]4;05;#881798\e\\' # 5:purple
+echo -ne '\e]4;06;#3a96dd\e\\' # 6:cyan
+echo -ne '\e]4;07;#cccccc\e\\' # 7:white
+echo -ne '\e]4;08;#767676\e\\' # 8:black+
+echo -ne '\e]4;09;#c01c28\e\\' # 1:red+
+echo -ne '\e]4;10;#26a269\e\\' # 2:green+
+echo -ne '\e]4;11;#a2734c\e\\' # 3:yellow+
+echo -ne '\e]4;12;#08458f\e\\' # 4:blue+
+echo -ne '\e]4;13;#a347ba\e\\' # 5:purple+
+echo -ne '\e]4;14;#2c9fb3\e\\' # 6:cyan+
+echo -ne '\e]4;15;#f2f2f2\e\\' # 7:white+
